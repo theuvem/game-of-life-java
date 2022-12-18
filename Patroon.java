@@ -1,0 +1,4 @@
+package ConwayGameOfLife;
+public enum Patroon {
+	GLIDER, SMALL_EXPLODER, EXPLODER, TEN_CELL_ROW, LW_SPACESHIP, LW_SPACESHIP_R, CRASH
+}
